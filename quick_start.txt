@@ -1,0 +1,19 @@
+1) Install macports
+
+2) Install gh / git
+
+3) Setup ssh agents and stuff
+	ssh-keygen -t ed25519 -C "chrisssu19@gmail.com"
+	eval "$(ssh-agent -s)"
+
+4) add pub key to github acc
+	ssh -T git@github.com
+
+5) setup ruby (rbenv, jekyll)
+	gem install jekyll
+
+6) setup neovim + term settings
+
+7) done! (for now)
+
+to be scripted later...
