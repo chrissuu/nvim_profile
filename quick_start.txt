@@ -12,8 +12,13 @@
 5) setup ruby (rbenv, jekyll)
 	gem install jekyll
 
-6) setup neovim + term settings
+6) setup neovim + term settings (tmux)
 
-7) done! (for now)
+7) install conda
+
+8) install nvm + node
+
+
+done! (for now)
 
 to be scripted later...
