@@ -18,6 +18,7 @@
 
 8) install nvm + node
 
+9) setup alacritty + dracula theme(?)
 
 done! (for now)
 
